@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-wrap",
+  "version": "1.0.0",
+  "description": "MongoDB NoSQL 数据库封装 - C++文档型数据库",
+  "main": "demo_nodejs.js",
+  "scripts": {
+    "start": "node demo_nodejs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "nosql",
+    "database",
+    "wrap",
+    "demo"
+  ],
+  "author": "q15004040209-creator",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/q15004040209-creator/mongodb-wrap.git"
+  }
+}
